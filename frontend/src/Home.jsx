@@ -10,7 +10,7 @@ import AllService from "./components/Allservice";
 
 const Home = () => {
   return (
-    <div className='bg-gradient-to-br from-indigo-100 '>
+    <div className='bg-linear-to-br from-indigo-100 '>
       <Hero />
       <Categories />
       <PopularServices />
