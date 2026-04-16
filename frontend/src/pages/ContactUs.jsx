@@ -129,7 +129,7 @@ const onSubmit = async (e) => {
                   </div>
                   <div>
                     <p className="text-sm text-gray-500">Phone</p>
-                    <p className="font-bold text-gray-900">+91 8866807245</p>
+                    <p className="font-bold text-gray-900">+91 9638974576</p>
                     <p className="text-xs text-gray-500 mt-1">Fast support & booking help</p>
                   </div>
                 </div>
@@ -140,7 +140,7 @@ const onSubmit = async (e) => {
                   </div>
                   <div>
                     <p className="text-sm text-gray-500">Email</p>
-                    <p className="font-bold text-gray-900">servicefinder.email@domain.com</p>
+                    <p className="font-bold text-gray-900">darshanbhuva1@gmail.com</p>
                     <p className="text-xs text-gray-500 mt-1">We reply within 24 hours</p>
                   </div>
                 </div>
