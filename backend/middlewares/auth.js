@@ -1,4 +1,4 @@
-// backend/middlewares/auth.js
+
 const { verifyToken } = require("../utils/jwt");
 
 function protect(req, res, next) {
